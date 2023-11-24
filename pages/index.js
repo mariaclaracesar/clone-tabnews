@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Olar, de uma risadinha! e de dois pulinhos</h1>
+    return <h1>Tive que mudar essa frase correndo aaaaaaa</h1>
 }
 
 export default Home;
